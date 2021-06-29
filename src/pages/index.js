@@ -11,7 +11,7 @@ const IndexPage = () => {
       <StaticImage
         width={700}
         alt="Dog in Crab Costume"
-        src='https://www.rd.com/wp-content/uploads/2019/09/GettyImages-621924830-scaled.jpg'
+        src='../images/dogCrab.jpg'
       />
     </Layout>
   )
