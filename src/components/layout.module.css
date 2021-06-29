@@ -10,6 +10,13 @@ body {
   text-align: center;
 }
 
+.site-title {
+  font-size:  3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 5
+}
+
 .heading {
   color: rebeccapurple;
 }
@@ -25,3 +32,4 @@ body {
 .nav-link-text {
   color: black;
 }
+
